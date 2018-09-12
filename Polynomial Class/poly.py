@@ -1,4 +1,4 @@
-#Diego Cohen Homework 3 Number 2
+# Diego Cohen
 
 import math
 import pylab
